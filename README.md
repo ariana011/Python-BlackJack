@@ -30,7 +30,7 @@ Dealer draws until reaching 17 or higher.
 Game compares scores and announces the result.
 
 ---
-🧑‍💻 Author
+Author
 Ariana Garcia
 📍 Texas | 👩‍💻 Computer Science Student | 🌐 Full-Stack Enthusiast
 
